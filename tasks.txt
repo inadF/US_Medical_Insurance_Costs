@@ -1,0 +1,6 @@
+1. % of smokers in the dataset
+2. % of male and female smokers
+3. Number of individuals from each region
+4. Averages for both male and female section: age, charge, bmi
+5. Average age for individuals with at least one child
+6. What causes the difference in charge between the genders?
